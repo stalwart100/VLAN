@@ -1,2 +1,2 @@
 # VLAN
-A basic vlan setup for a small organization 
+A basic vlan setup with inter-vlan routing for a small organization 
